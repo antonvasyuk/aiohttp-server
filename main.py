@@ -1,4 +1,3 @@
-
 from aiohttp import web  # основной модуль aiohttp
 import jinja2  # шаблонизатор jinja2
 import aiohttp_jinja2  # адаптация jinja2 к aiohttp
